@@ -32,26 +32,6 @@ A full-featured blogging platform built with **PHP**, **MySQL**, **Bootstrap**, 
 
 ---
 
-## 🧾 Folder Structure
-
-```
-
-php-blog-website/
-├── admin/              # Admin dashboard files
-│   ├── data/           # DB logic (Post.php, Comment.php, etc.)
-│   ├── inc/            # Includes (sidebar, navbar)
-│   ├── req/            # Request handlers (CRUD)
-├── css/                # Custom styles
-├── js/                 # JavaScript & rich text editor plugin
-├── img/                # User/default images
-├── php/                # User login/signup/comment logic
-├── upload/blog/        # Blog post cover images
-├── inc/                # Shared navbars
-├── db\_conn.php         # PDO DB connection
-├── login.php, signup.php, blog.php, index.php, etc.
-
-````
-
 ---
 
 ## 🗃️ Database
@@ -135,7 +115,3 @@ This project is licensed under the MIT License.
 
 ```
 
----
-
-
-```
