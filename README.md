@@ -2,7 +2,9 @@
 ```markdown
 # 📝 PHP Blog Website
 
-A full-featured blogging platform built with **PHP**, **MySQL**, **Bootstrap**, and **jQuery**. Users can register, log in, read blog posts, comment, like, and interact with content. Admins can manage blog posts, categories, users, and moderate comments.
+A full-featured blogging platform built with **PHP**, **MySQL**, **Bootstrap**, and **jQuery**.
+Users can register, log in, read blog posts, comment, like, and interact with content.
+Admins can manage blog posts, categories, users, and moderate comments.
 
 ---
 
