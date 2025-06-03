@@ -52,9 +52,8 @@ Use `password_hash()` and `password_verify()` for secure password storage.
 ## ⚙️ Installation
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/MyatThuraSoe/Blog-PHP-Mysql.git
-````
 
 2. Import the `blog_db` schema into MySQL using MySQL Workbench or `phpMyAdmin`.
 
@@ -70,16 +69,13 @@ Use `password_hash()` and `password_verify()` for secure password storage.
 4. Place the project in your XAMPP `htdocs/` folder.
 
 5. Run it in the browser:
-
-   ```
    http://localhost/php-blog-website/
-   ```
 
 ---
 
 ## 📸 Screenshots
 
-> (You can add screenshots here using: `![Home Page](screenshots/home.png)`)
+Will be added later!
 
 ---
 
