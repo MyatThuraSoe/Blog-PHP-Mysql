@@ -3,6 +3,9 @@ session_start();
 
 if (isset($_SESSION['admin_id']) && isset($_SESSION['username'])) {
  ?>
+
+<?php include "../php/csrf.php"; ?>
+
 <!DOCTYPE html>
 <html>
 <head>
